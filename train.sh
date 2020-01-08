@@ -1,0 +1,1 @@
+python train.py --dataroot /data0/data_cy/DeepFusion_dataset_agml --name DeepFusion_Trancated_v2 --loss_weights "{'mse': 20, 'l1': 0, 'ssim': 0,'iqa_c1': 0, 'iqa_c2': 0, 'iqa_c3': 0,'iqa_c4': 0, 'iqa_sc': 0}" --batchloader_nThreads 4

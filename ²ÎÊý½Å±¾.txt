@@ -1,0 +1,1 @@
+--model multifusion --dataset_mode multifusion --lr 0.0001  --dataroot /media/chengyu/CHENGYU/实验/UEDataset/underexp_gm --labelroot /media/chengyu/CHENGYU/实验/UEDataset/underexporg --resize_or_crop crop --fineSize 128 --batchSize 10
